@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Tianqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianqi-Yao)](https://github.com/Tianqi-Yao)
+[![Tianqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianqi-Yao&show_icons=true&theme=radical)](https://github.com/Tianqi-Yao)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianqi-Yao)](https://github.com/Tianqi-Yao)
 <!--
 **Tianqi-Yao/Tianqi-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
