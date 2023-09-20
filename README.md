@@ -24,7 +24,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](your-twitter-link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
 -->
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](link-to-your-blog-or-other-site)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)]([link-to-your-blog-or-other-site](https://github.com/Tianqi-Yao))
 
 
 <!--
