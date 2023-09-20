@@ -1,4 +1,4 @@
-# Hello 👋, I'm Sam Yao!
+# Hello 👋, I'm Tianqi Yao!
 
 ## About Me
 
@@ -24,8 +24,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](your-twitter-link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
 -->
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](https://github.com/Tianqi-Yao)
 
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](https://github.com/Tianqi-Yao)
 
 <!--
 **Tianqi-Yao/Tianqi-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
