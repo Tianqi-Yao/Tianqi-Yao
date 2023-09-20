@@ -15,18 +15,18 @@
 - **Frameworks**: `React`, `Express.js`, `Next.js`
 - **Interests**: `Web Development`, `Game Development`, `3D Printing`
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true)](https://github.com/YourGitHubUsername)
-
-### 🌍 Connect with me:
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](your-twitter-link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](link-to-your-blog-or-other-site)
-
-
 [![Tianqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tianqi-Yao&show_icons=true&theme=react)](https://github.com/Tianqi-Yao)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianqi-Yao&layout=compact&theme=react)](https://github.com/Tianqi-Yao)
+
+### 🌍 Connect with me:
+<!--
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](your-twitter-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
+-->
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](link-to-your-blog-or-other-site)
+
+
 <!--
 **Tianqi-Yao/Tianqi-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
