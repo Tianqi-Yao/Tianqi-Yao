@@ -25,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
 -->
 
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)]([https://github.com/Tianqi-Yao](https://notion-next-eight-blush.vercel.app/))
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=Blogger&logoColor=white)](https://notion-next-eight-blush.vercel.app)
 
 <!--
 **Tianqi-Yao/Tianqi-Yao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
